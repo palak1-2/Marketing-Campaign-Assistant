@@ -127,8 +127,3 @@ Marketing-Campaign-Assistant/
 
 ---
 
----
-
-## 👨‍💻 Author
-
-Built as an AI agent system exploring real-world marketing automation using multi-agent LLM orchestration.
