@@ -127,10 +127,6 @@ Marketing-Campaign-Assistant/
 
 ---
 
-## ⚠️ Note
-
-This module was originally part of a larger ADK-based system and has been isolated for demonstration and portfolio purposes.
-
 ---
 
 ## 👨‍💻 Author
